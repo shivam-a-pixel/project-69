@@ -23,6 +23,7 @@ iframe
 html
 {
 	scroll-behavior: smooth;
+	overflow:hidden;
 }
 #Double_dholki
 {
@@ -32,6 +33,7 @@ html
 body
 {
 	background-color: crimson;
+	overflow:hidden;
 	/*text-align: center;*/
 }
 #deatails
